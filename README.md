@@ -1,17 +1,16 @@
 
 README
 
-Xinyu Kang
-xkang@bu.edu
-December 2017
+    Xinyu Kang
+    xkang@bu.edu
+    December 2017
 
 
 
 This package contains MatLab(TM) scripts that implement the recursive partition based multi scale dynamic causal network model, introduced in  
-
-    
-Dynamic Networks with Multi-scale Temporal Structure
-Xinyu Kang, Apratim Ganguly, Eric Kolaczyk
+   
+    Dynamic Networks with Multi-scale Temporal Structure
+    Xinyu Kang, Apratim Ganguly, Eric Kolaczyk
 
 ===== Implementation ==================================================================
 The code depends on the econometrics toolbox and the cvx toolbox (http://cvxr.com/cvx/).
