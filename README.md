@@ -1,25 +1,25 @@
 
 README
 
-	         Xinyu Kang
-                 xkang@bu.edu
-                 December 2017
+Xinyu Kang
+xkang@bu.edu
+December 2017
 
 
 
 This package contains MatLab(TM) scripts that implement the recursive partition based multi scale dynamic causal network model, introduced in  
 
     
-        Dynamic Networks with Multi-scale Temporal Structure
-	Xinyu Kang, Apratim Ganguly, Eric Kolaczyk
+Dynamic Networks with Multi-scale Temporal Structure
+Xinyu Kang, Apratim Ganguly, Eric Kolaczyk
 
-===== Implementation ========================================================================
+===== Implementation ==================================================================
 The code depends on the econometrics toolbox and the cvx toolbox (http://cvxr.com/cvx/).
 
 To implement the code, please run either RDPmain.m or RPmain.m to see a minimum working example with the recursive dyadic partitioning 
 or the recursive partitioning respectively. This will call the other functions in this page.
 
-===== Scripts ===============================================================================
+===== Scripts ========================================================================+
 - compute_lambda.m:	Compute the empirical penalty for the group lasso type of optimization.
 
 - covar_design.m:	Reshape the multi-variate time series data into a form that is suitable for the group-lasso regression.
