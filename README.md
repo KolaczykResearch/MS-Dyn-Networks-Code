@@ -13,7 +13,7 @@ This package contains MatLab(TM) scripts that implement the recursive partition 
     Xinyu Kang, Apratim Ganguly, Eric Kolaczyk
 
 ===== Implementation ==================================================================
-The code depends on the econometrics toolbox and the cvx toolbox (http://cvxr.com/cvx/).
+The code is implemented using Matlab and depends on the econometrics toolbox and the cvx toolbox (http://cvxr.com/cvx/).
 
 To implement the code, please run either RDPmain.m or RPmain.m to see a minimum working example with the recursive dyadic partitioning 
 or the recursive partitioning respectively. This will call the other functions in this page.
