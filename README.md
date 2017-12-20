@@ -31,7 +31,9 @@ or the recursive partitioning respectively. This will call the other functions i
 
 - importfile.m		Import MEG data. (Data currently not available)
 
-- MEGfull.m:		Brain image analysis (This replicates our applications in the paper. The data is confidential and is not available at this moment)
+- MEGanalysis.m:		Brain image analysis (This replicates our applications in the paper. The data is confidential and is not available at this moment)
+
+- MEG_breakpoints.m:    Detect change points of the MEG networks
 
 - RDPmain.m:     	Simulation study using the recursive dyadic partitioning.
 
