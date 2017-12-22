@@ -11,6 +11,7 @@ This package contains MatLab(TM) scripts that implement the recursive partition 
    
     Dynamic Networks with Multi-scale Temporal Structure
     Xinyu Kang, Apratim Ganguly, Eric Kolaczyk
+    Submitted
 
 ===== Implementation ==================================================================
 The code is implemented using Matlab and depends on the econometrics toolbox and the cvx toolbox (http://cvxr.com/cvx/).
